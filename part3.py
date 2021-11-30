@@ -32,7 +32,7 @@ elif number < 0 :
   print("negative")
 
 
-if number % 3 == 2 or 1 :
+if number % 3 == 1 or number % 3 == 2 :
   print("not divisible by 3")
 else :
   print("divisible by 3")
